@@ -2,12 +2,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idowu113910" alt="idowu113910" /></a> </p>
 
 # 🎯 About Me:
-
-
-- 👯 I’m looking to collaborate on **React projects**
-- 🌱 I’m currently learning **Node.js and Next.js**
-- 💬 Ask me about **HTML, CSS, JavaScript, TailwindCSS, SASS and React**
-- ⚡ Fun fact **is that i'm a night owl - my best code happens at 2 AM**
+Frontend Focused developer , little bit experience on backend 
 
 
 
