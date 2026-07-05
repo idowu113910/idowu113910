@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Idowu Daniel</h1>
+<h1 align="left">Hi 👋, I'm Idowu Omotesho</h1>
 <p align="lefr"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idowu113910" alt="idowu113910" /></a> </p>
 
 # 🎯 About Me:
